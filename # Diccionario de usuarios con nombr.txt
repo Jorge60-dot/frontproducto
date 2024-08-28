@@ -5,7 +5,7 @@ usuarios = {
     "usuario3": "contraseña3"
 }
 
-# Función para verificar el inicio de sesión
+# Función para verificar el cerrar de sesión
 def iniciar_sesion():
     print("Bienvenido al sistema de inicio de sesión")
     usuario = input("Ingresa tu nombre de usuario: ")
